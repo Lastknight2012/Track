@@ -1,13 +1,13 @@
 package me.hypertech.egit;
 
-public class Greeting {
+public class JG {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello EGit...");
-//		System.out.println("Do some changes.");
+		// TODO Auto-generated method stub
+
 	}
 
 }
